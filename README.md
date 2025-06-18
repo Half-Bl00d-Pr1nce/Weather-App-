@@ -28,9 +28,9 @@ This desktop Weather App is built with Python and PyQt5, integrating the OpenWea
 
 ## Installation  
 
-1. **Clone the repository**
-2. **Navigate to the project directory**
-3. **Install dependencies**
+1. **Clone the repository** : git clone https://github.com/Half-Bl00d-Pr1nce/Weather-App-.git 
+2. **Navigate to the project directory** : cd Weather-App-
+3. **Install dependencies** : pip install -r requirements.txt
 
 
 ---
